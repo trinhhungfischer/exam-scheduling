@@ -1,0 +1,8104 @@
+variables {
+  name: "x[0]"
+  domain: 0
+  domain: 10
+}
+variables {
+  name: "x[1]"
+  domain: 0
+  domain: 10
+}
+variables {
+  name: "x[2]"
+  domain: 0
+  domain: 10
+}
+variables {
+  name: "x[3]"
+  domain: 0
+  domain: 10
+}
+variables {
+  name: "x[4]"
+  domain: 0
+  domain: 10
+}
+variables {
+  name: "x[5]"
+  domain: 0
+  domain: 10
+}
+variables {
+  name: "x[6]"
+  domain: 0
+  domain: 10
+}
+variables {
+  name: "x[7]"
+  domain: 0
+  domain: 10
+}
+variables {
+  name: "x[8]"
+  domain: 0
+  domain: 10
+}
+variables {
+  name: "x[9]"
+  domain: 0
+  domain: 10
+}
+variables {
+  name: "y[0][0]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "y[0][1]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "y[1][0]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "y[1][1]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "y[2][0]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "y[2][1]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "y[3][0]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "y[3][1]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "y[4][0]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "y[4][1]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "y[5][0]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "y[5][1]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "y[6][0]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "y[6][1]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "y[7][0]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "y[7][1]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "y[8][0]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "y[8][1]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "y[9][0]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "y[9][1]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "num_sections"
+  domain: 0
+  domain: 10
+}
+variables {
+  name: "b[0][1]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[0][1]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[0][2]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[0][2]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[0][3]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[0][3]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[0][4]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[0][4]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[0][5]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[0][5]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[0][6]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[0][6]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[0][7]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[0][7]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[0][8]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[0][8]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[0][9]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[0][9]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[1][0]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[1][0]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[1][2]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[1][2]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[1][3]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[1][3]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[1][4]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[1][4]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[1][5]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[1][5]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[1][6]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[1][6]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[1][7]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[1][7]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[1][8]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[1][8]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[1][9]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[1][9]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[2][0]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[2][0]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[2][1]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[2][1]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[2][3]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[2][3]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[2][4]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[2][4]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[2][5]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[2][5]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[2][6]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[2][6]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[2][7]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[2][7]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[2][8]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[2][8]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[2][9]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[2][9]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[3][0]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[3][0]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[3][1]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[3][1]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[3][2]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[3][2]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[3][4]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[3][4]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[3][5]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[3][5]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[3][6]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[3][6]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[3][7]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[3][7]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[3][8]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[3][8]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[3][9]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[3][9]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[4][0]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[4][0]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[4][1]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[4][1]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[4][2]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[4][2]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[4][3]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[4][3]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[4][5]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[4][5]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[4][6]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[4][6]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[4][7]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[4][7]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[4][8]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[4][8]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[4][9]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[4][9]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[5][0]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[5][0]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[5][1]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[5][1]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[5][2]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[5][2]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[5][3]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[5][3]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[5][4]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[5][4]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[5][6]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[5][6]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[5][7]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[5][7]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[5][8]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[5][8]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[5][9]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[5][9]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[6][0]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[6][0]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[6][1]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[6][1]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[6][2]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[6][2]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[6][3]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[6][3]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[6][4]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[6][4]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[6][5]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[6][5]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[6][7]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[6][7]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[6][8]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[6][8]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[6][9]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[6][9]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[7][0]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[7][0]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[7][1]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[7][1]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[7][2]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[7][2]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[7][3]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[7][3]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[7][4]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[7][4]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[7][5]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[7][5]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[7][6]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[7][6]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[7][8]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[7][8]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[7][9]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[7][9]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[8][0]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[8][0]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[8][1]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[8][1]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[8][2]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[8][2]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[8][3]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[8][3]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[8][4]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[8][4]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[8][5]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[8][5]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[8][6]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[8][6]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[8][7]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[8][7]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[8][9]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[8][9]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[9][0]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[9][0]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[9][1]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[9][1]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[9][2]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[9][2]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[9][3]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[9][3]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[9][4]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[9][4]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[9][5]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[9][5]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[9][6]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[9][6]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[9][7]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[9][7]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[9][8]"
+  domain: 0
+  domain: 1
+}
+variables {
+  name: "b[9][8]"
+  domain: 0
+  domain: 1
+}
+constraints {
+  linear {
+    vars: 11
+    vars: 10
+    coeffs: 1
+    coeffs: 1
+    domain: 1
+    domain: 1
+  }
+}
+constraints {
+  linear {
+    vars: 13
+    vars: 12
+    coeffs: 1
+    coeffs: 1
+    domain: 1
+    domain: 1
+  }
+}
+constraints {
+  linear {
+    vars: 15
+    vars: 14
+    coeffs: 1
+    coeffs: 1
+    domain: 1
+    domain: 1
+  }
+}
+constraints {
+  linear {
+    vars: 17
+    vars: 16
+    coeffs: 1
+    coeffs: 1
+    domain: 1
+    domain: 1
+  }
+}
+constraints {
+  linear {
+    vars: 19
+    vars: 18
+    coeffs: 1
+    coeffs: 1
+    domain: 1
+    domain: 1
+  }
+}
+constraints {
+  linear {
+    vars: 21
+    vars: 20
+    coeffs: 1
+    coeffs: 1
+    domain: 1
+    domain: 1
+  }
+}
+constraints {
+  linear {
+    vars: 23
+    vars: 22
+    coeffs: 1
+    coeffs: 1
+    domain: 1
+    domain: 1
+  }
+}
+constraints {
+  linear {
+    vars: 25
+    vars: 24
+    coeffs: 1
+    coeffs: 1
+    domain: 1
+    domain: 1
+  }
+}
+constraints {
+  linear {
+    vars: 27
+    vars: 26
+    coeffs: 1
+    coeffs: 1
+    domain: 1
+    domain: 1
+  }
+}
+constraints {
+  linear {
+    vars: 29
+    vars: 28
+    coeffs: 1
+    coeffs: 1
+    domain: 1
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 31
+  linear {
+    vars: 1
+    vars: 0
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -32
+  linear {
+    vars: 1
+    vars: 0
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 31
+  linear {
+    vars: 12
+    vars: 10
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 32
+  linear {
+    vars: 1
+    vars: 0
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -33
+  linear {
+    vars: 1
+    vars: 0
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 32
+  linear {
+    vars: 13
+    vars: 11
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 33
+  linear {
+    vars: 2
+    vars: 0
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -34
+  linear {
+    vars: 2
+    vars: 0
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 33
+  linear {
+    vars: 14
+    vars: 10
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 34
+  linear {
+    vars: 2
+    vars: 0
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -35
+  linear {
+    vars: 2
+    vars: 0
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 34
+  linear {
+    vars: 15
+    vars: 11
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 35
+  linear {
+    vars: 3
+    vars: 0
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -36
+  linear {
+    vars: 3
+    vars: 0
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 35
+  linear {
+    vars: 16
+    vars: 10
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 36
+  linear {
+    vars: 3
+    vars: 0
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -37
+  linear {
+    vars: 3
+    vars: 0
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 36
+  linear {
+    vars: 17
+    vars: 11
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 37
+  linear {
+    vars: 4
+    vars: 0
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -38
+  linear {
+    vars: 4
+    vars: 0
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 37
+  linear {
+    vars: 18
+    vars: 10
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 38
+  linear {
+    vars: 4
+    vars: 0
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -39
+  linear {
+    vars: 4
+    vars: 0
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 38
+  linear {
+    vars: 19
+    vars: 11
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 39
+  linear {
+    vars: 5
+    vars: 0
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -40
+  linear {
+    vars: 5
+    vars: 0
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 39
+  linear {
+    vars: 20
+    vars: 10
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 40
+  linear {
+    vars: 5
+    vars: 0
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -41
+  linear {
+    vars: 5
+    vars: 0
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 40
+  linear {
+    vars: 21
+    vars: 11
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 41
+  linear {
+    vars: 6
+    vars: 0
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -42
+  linear {
+    vars: 6
+    vars: 0
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 41
+  linear {
+    vars: 22
+    vars: 10
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 42
+  linear {
+    vars: 6
+    vars: 0
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -43
+  linear {
+    vars: 6
+    vars: 0
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 42
+  linear {
+    vars: 23
+    vars: 11
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 43
+  linear {
+    vars: 7
+    vars: 0
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -44
+  linear {
+    vars: 7
+    vars: 0
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 43
+  linear {
+    vars: 24
+    vars: 10
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 44
+  linear {
+    vars: 7
+    vars: 0
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -45
+  linear {
+    vars: 7
+    vars: 0
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 44
+  linear {
+    vars: 25
+    vars: 11
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 45
+  linear {
+    vars: 8
+    vars: 0
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -46
+  linear {
+    vars: 8
+    vars: 0
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 45
+  linear {
+    vars: 26
+    vars: 10
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 46
+  linear {
+    vars: 8
+    vars: 0
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -47
+  linear {
+    vars: 8
+    vars: 0
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 46
+  linear {
+    vars: 27
+    vars: 11
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 47
+  linear {
+    vars: 9
+    vars: 0
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -48
+  linear {
+    vars: 9
+    vars: 0
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 47
+  linear {
+    vars: 28
+    vars: 10
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 48
+  linear {
+    vars: 9
+    vars: 0
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -49
+  linear {
+    vars: 9
+    vars: 0
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 48
+  linear {
+    vars: 29
+    vars: 11
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 49
+  linear {
+    vars: 0
+    vars: 1
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -50
+  linear {
+    vars: 0
+    vars: 1
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 49
+  linear {
+    vars: 10
+    vars: 12
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 50
+  linear {
+    vars: 0
+    vars: 1
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -51
+  linear {
+    vars: 0
+    vars: 1
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 50
+  linear {
+    vars: 11
+    vars: 13
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 51
+  linear {
+    vars: 2
+    vars: 1
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -52
+  linear {
+    vars: 2
+    vars: 1
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 51
+  linear {
+    vars: 14
+    vars: 12
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 52
+  linear {
+    vars: 2
+    vars: 1
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -53
+  linear {
+    vars: 2
+    vars: 1
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 52
+  linear {
+    vars: 15
+    vars: 13
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 53
+  linear {
+    vars: 3
+    vars: 1
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -54
+  linear {
+    vars: 3
+    vars: 1
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 53
+  linear {
+    vars: 16
+    vars: 12
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 54
+  linear {
+    vars: 3
+    vars: 1
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -55
+  linear {
+    vars: 3
+    vars: 1
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 54
+  linear {
+    vars: 17
+    vars: 13
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 55
+  linear {
+    vars: 4
+    vars: 1
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -56
+  linear {
+    vars: 4
+    vars: 1
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 55
+  linear {
+    vars: 18
+    vars: 12
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 56
+  linear {
+    vars: 4
+    vars: 1
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -57
+  linear {
+    vars: 4
+    vars: 1
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 56
+  linear {
+    vars: 19
+    vars: 13
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 57
+  linear {
+    vars: 5
+    vars: 1
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -58
+  linear {
+    vars: 5
+    vars: 1
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 57
+  linear {
+    vars: 20
+    vars: 12
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 58
+  linear {
+    vars: 5
+    vars: 1
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -59
+  linear {
+    vars: 5
+    vars: 1
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 58
+  linear {
+    vars: 21
+    vars: 13
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 59
+  linear {
+    vars: 6
+    vars: 1
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -60
+  linear {
+    vars: 6
+    vars: 1
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 59
+  linear {
+    vars: 22
+    vars: 12
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 60
+  linear {
+    vars: 6
+    vars: 1
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -61
+  linear {
+    vars: 6
+    vars: 1
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 60
+  linear {
+    vars: 23
+    vars: 13
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 61
+  linear {
+    vars: 7
+    vars: 1
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -62
+  linear {
+    vars: 7
+    vars: 1
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 61
+  linear {
+    vars: 24
+    vars: 12
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 62
+  linear {
+    vars: 7
+    vars: 1
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -63
+  linear {
+    vars: 7
+    vars: 1
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 62
+  linear {
+    vars: 25
+    vars: 13
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 63
+  linear {
+    vars: 8
+    vars: 1
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -64
+  linear {
+    vars: 8
+    vars: 1
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 63
+  linear {
+    vars: 26
+    vars: 12
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 64
+  linear {
+    vars: 8
+    vars: 1
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -65
+  linear {
+    vars: 8
+    vars: 1
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 64
+  linear {
+    vars: 27
+    vars: 13
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 65
+  linear {
+    vars: 9
+    vars: 1
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -66
+  linear {
+    vars: 9
+    vars: 1
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 65
+  linear {
+    vars: 28
+    vars: 12
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 66
+  linear {
+    vars: 9
+    vars: 1
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -67
+  linear {
+    vars: 9
+    vars: 1
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 66
+  linear {
+    vars: 29
+    vars: 13
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 67
+  linear {
+    vars: 0
+    vars: 2
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -68
+  linear {
+    vars: 0
+    vars: 2
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 67
+  linear {
+    vars: 10
+    vars: 14
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 68
+  linear {
+    vars: 0
+    vars: 2
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -69
+  linear {
+    vars: 0
+    vars: 2
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 68
+  linear {
+    vars: 11
+    vars: 15
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 69
+  linear {
+    vars: 1
+    vars: 2
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -70
+  linear {
+    vars: 1
+    vars: 2
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 69
+  linear {
+    vars: 12
+    vars: 14
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 70
+  linear {
+    vars: 1
+    vars: 2
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -71
+  linear {
+    vars: 1
+    vars: 2
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 70
+  linear {
+    vars: 13
+    vars: 15
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 71
+  linear {
+    vars: 3
+    vars: 2
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -72
+  linear {
+    vars: 3
+    vars: 2
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 71
+  linear {
+    vars: 16
+    vars: 14
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 72
+  linear {
+    vars: 3
+    vars: 2
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -73
+  linear {
+    vars: 3
+    vars: 2
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 72
+  linear {
+    vars: 17
+    vars: 15
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 73
+  linear {
+    vars: 4
+    vars: 2
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -74
+  linear {
+    vars: 4
+    vars: 2
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 73
+  linear {
+    vars: 18
+    vars: 14
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 74
+  linear {
+    vars: 4
+    vars: 2
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -75
+  linear {
+    vars: 4
+    vars: 2
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 74
+  linear {
+    vars: 19
+    vars: 15
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 75
+  linear {
+    vars: 5
+    vars: 2
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -76
+  linear {
+    vars: 5
+    vars: 2
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 75
+  linear {
+    vars: 20
+    vars: 14
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 76
+  linear {
+    vars: 5
+    vars: 2
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -77
+  linear {
+    vars: 5
+    vars: 2
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 76
+  linear {
+    vars: 21
+    vars: 15
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 77
+  linear {
+    vars: 6
+    vars: 2
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -78
+  linear {
+    vars: 6
+    vars: 2
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 77
+  linear {
+    vars: 22
+    vars: 14
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 78
+  linear {
+    vars: 6
+    vars: 2
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -79
+  linear {
+    vars: 6
+    vars: 2
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 78
+  linear {
+    vars: 23
+    vars: 15
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 79
+  linear {
+    vars: 7
+    vars: 2
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -80
+  linear {
+    vars: 7
+    vars: 2
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 79
+  linear {
+    vars: 24
+    vars: 14
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 80
+  linear {
+    vars: 7
+    vars: 2
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -81
+  linear {
+    vars: 7
+    vars: 2
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 80
+  linear {
+    vars: 25
+    vars: 15
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 81
+  linear {
+    vars: 8
+    vars: 2
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -82
+  linear {
+    vars: 8
+    vars: 2
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 81
+  linear {
+    vars: 26
+    vars: 14
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 82
+  linear {
+    vars: 8
+    vars: 2
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -83
+  linear {
+    vars: 8
+    vars: 2
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 82
+  linear {
+    vars: 27
+    vars: 15
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 83
+  linear {
+    vars: 9
+    vars: 2
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -84
+  linear {
+    vars: 9
+    vars: 2
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 83
+  linear {
+    vars: 28
+    vars: 14
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 84
+  linear {
+    vars: 9
+    vars: 2
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -85
+  linear {
+    vars: 9
+    vars: 2
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 84
+  linear {
+    vars: 29
+    vars: 15
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 85
+  linear {
+    vars: 0
+    vars: 3
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -86
+  linear {
+    vars: 0
+    vars: 3
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 85
+  linear {
+    vars: 10
+    vars: 16
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 86
+  linear {
+    vars: 0
+    vars: 3
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -87
+  linear {
+    vars: 0
+    vars: 3
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 86
+  linear {
+    vars: 11
+    vars: 17
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 87
+  linear {
+    vars: 1
+    vars: 3
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -88
+  linear {
+    vars: 1
+    vars: 3
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 87
+  linear {
+    vars: 12
+    vars: 16
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 88
+  linear {
+    vars: 1
+    vars: 3
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -89
+  linear {
+    vars: 1
+    vars: 3
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 88
+  linear {
+    vars: 13
+    vars: 17
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 89
+  linear {
+    vars: 2
+    vars: 3
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -90
+  linear {
+    vars: 2
+    vars: 3
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 89
+  linear {
+    vars: 14
+    vars: 16
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 90
+  linear {
+    vars: 2
+    vars: 3
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -91
+  linear {
+    vars: 2
+    vars: 3
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 90
+  linear {
+    vars: 15
+    vars: 17
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 91
+  linear {
+    vars: 4
+    vars: 3
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -92
+  linear {
+    vars: 4
+    vars: 3
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 91
+  linear {
+    vars: 18
+    vars: 16
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 92
+  linear {
+    vars: 4
+    vars: 3
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -93
+  linear {
+    vars: 4
+    vars: 3
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 92
+  linear {
+    vars: 19
+    vars: 17
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 93
+  linear {
+    vars: 5
+    vars: 3
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -94
+  linear {
+    vars: 5
+    vars: 3
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 93
+  linear {
+    vars: 20
+    vars: 16
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 94
+  linear {
+    vars: 5
+    vars: 3
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -95
+  linear {
+    vars: 5
+    vars: 3
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 94
+  linear {
+    vars: 21
+    vars: 17
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 95
+  linear {
+    vars: 6
+    vars: 3
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -96
+  linear {
+    vars: 6
+    vars: 3
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 95
+  linear {
+    vars: 22
+    vars: 16
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 96
+  linear {
+    vars: 6
+    vars: 3
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -97
+  linear {
+    vars: 6
+    vars: 3
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 96
+  linear {
+    vars: 23
+    vars: 17
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 97
+  linear {
+    vars: 7
+    vars: 3
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -98
+  linear {
+    vars: 7
+    vars: 3
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 97
+  linear {
+    vars: 24
+    vars: 16
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 98
+  linear {
+    vars: 7
+    vars: 3
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -99
+  linear {
+    vars: 7
+    vars: 3
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 98
+  linear {
+    vars: 25
+    vars: 17
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 99
+  linear {
+    vars: 8
+    vars: 3
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -100
+  linear {
+    vars: 8
+    vars: 3
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 99
+  linear {
+    vars: 26
+    vars: 16
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 100
+  linear {
+    vars: 8
+    vars: 3
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -101
+  linear {
+    vars: 8
+    vars: 3
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 100
+  linear {
+    vars: 27
+    vars: 17
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 101
+  linear {
+    vars: 9
+    vars: 3
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -102
+  linear {
+    vars: 9
+    vars: 3
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 101
+  linear {
+    vars: 28
+    vars: 16
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 102
+  linear {
+    vars: 9
+    vars: 3
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -103
+  linear {
+    vars: 9
+    vars: 3
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 102
+  linear {
+    vars: 29
+    vars: 17
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 103
+  linear {
+    vars: 0
+    vars: 4
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -104
+  linear {
+    vars: 0
+    vars: 4
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 103
+  linear {
+    vars: 10
+    vars: 18
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 104
+  linear {
+    vars: 0
+    vars: 4
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -105
+  linear {
+    vars: 0
+    vars: 4
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 104
+  linear {
+    vars: 11
+    vars: 19
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 105
+  linear {
+    vars: 1
+    vars: 4
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -106
+  linear {
+    vars: 1
+    vars: 4
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 105
+  linear {
+    vars: 12
+    vars: 18
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 106
+  linear {
+    vars: 1
+    vars: 4
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -107
+  linear {
+    vars: 1
+    vars: 4
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 106
+  linear {
+    vars: 13
+    vars: 19
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 107
+  linear {
+    vars: 2
+    vars: 4
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -108
+  linear {
+    vars: 2
+    vars: 4
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 107
+  linear {
+    vars: 14
+    vars: 18
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 108
+  linear {
+    vars: 2
+    vars: 4
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -109
+  linear {
+    vars: 2
+    vars: 4
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 108
+  linear {
+    vars: 15
+    vars: 19
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 109
+  linear {
+    vars: 3
+    vars: 4
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -110
+  linear {
+    vars: 3
+    vars: 4
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 109
+  linear {
+    vars: 16
+    vars: 18
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 110
+  linear {
+    vars: 3
+    vars: 4
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -111
+  linear {
+    vars: 3
+    vars: 4
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 110
+  linear {
+    vars: 17
+    vars: 19
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 111
+  linear {
+    vars: 5
+    vars: 4
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -112
+  linear {
+    vars: 5
+    vars: 4
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 111
+  linear {
+    vars: 20
+    vars: 18
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 112
+  linear {
+    vars: 5
+    vars: 4
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -113
+  linear {
+    vars: 5
+    vars: 4
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 112
+  linear {
+    vars: 21
+    vars: 19
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 113
+  linear {
+    vars: 6
+    vars: 4
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -114
+  linear {
+    vars: 6
+    vars: 4
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 113
+  linear {
+    vars: 22
+    vars: 18
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 114
+  linear {
+    vars: 6
+    vars: 4
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -115
+  linear {
+    vars: 6
+    vars: 4
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 114
+  linear {
+    vars: 23
+    vars: 19
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 115
+  linear {
+    vars: 7
+    vars: 4
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -116
+  linear {
+    vars: 7
+    vars: 4
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 115
+  linear {
+    vars: 24
+    vars: 18
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 116
+  linear {
+    vars: 7
+    vars: 4
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -117
+  linear {
+    vars: 7
+    vars: 4
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 116
+  linear {
+    vars: 25
+    vars: 19
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 117
+  linear {
+    vars: 8
+    vars: 4
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -118
+  linear {
+    vars: 8
+    vars: 4
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 117
+  linear {
+    vars: 26
+    vars: 18
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 118
+  linear {
+    vars: 8
+    vars: 4
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -119
+  linear {
+    vars: 8
+    vars: 4
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 118
+  linear {
+    vars: 27
+    vars: 19
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 119
+  linear {
+    vars: 9
+    vars: 4
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -120
+  linear {
+    vars: 9
+    vars: 4
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 119
+  linear {
+    vars: 28
+    vars: 18
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 120
+  linear {
+    vars: 9
+    vars: 4
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -121
+  linear {
+    vars: 9
+    vars: 4
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 120
+  linear {
+    vars: 29
+    vars: 19
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 121
+  linear {
+    vars: 0
+    vars: 5
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -122
+  linear {
+    vars: 0
+    vars: 5
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 121
+  linear {
+    vars: 10
+    vars: 20
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 122
+  linear {
+    vars: 0
+    vars: 5
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -123
+  linear {
+    vars: 0
+    vars: 5
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 122
+  linear {
+    vars: 11
+    vars: 21
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 123
+  linear {
+    vars: 1
+    vars: 5
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -124
+  linear {
+    vars: 1
+    vars: 5
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 123
+  linear {
+    vars: 12
+    vars: 20
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 124
+  linear {
+    vars: 1
+    vars: 5
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -125
+  linear {
+    vars: 1
+    vars: 5
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 124
+  linear {
+    vars: 13
+    vars: 21
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 125
+  linear {
+    vars: 2
+    vars: 5
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -126
+  linear {
+    vars: 2
+    vars: 5
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 125
+  linear {
+    vars: 14
+    vars: 20
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 126
+  linear {
+    vars: 2
+    vars: 5
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -127
+  linear {
+    vars: 2
+    vars: 5
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 126
+  linear {
+    vars: 15
+    vars: 21
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 127
+  linear {
+    vars: 3
+    vars: 5
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -128
+  linear {
+    vars: 3
+    vars: 5
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 127
+  linear {
+    vars: 16
+    vars: 20
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 128
+  linear {
+    vars: 3
+    vars: 5
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -129
+  linear {
+    vars: 3
+    vars: 5
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 128
+  linear {
+    vars: 17
+    vars: 21
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 129
+  linear {
+    vars: 4
+    vars: 5
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -130
+  linear {
+    vars: 4
+    vars: 5
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 129
+  linear {
+    vars: 18
+    vars: 20
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 130
+  linear {
+    vars: 4
+    vars: 5
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -131
+  linear {
+    vars: 4
+    vars: 5
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 130
+  linear {
+    vars: 19
+    vars: 21
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 131
+  linear {
+    vars: 6
+    vars: 5
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -132
+  linear {
+    vars: 6
+    vars: 5
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 131
+  linear {
+    vars: 22
+    vars: 20
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 132
+  linear {
+    vars: 6
+    vars: 5
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -133
+  linear {
+    vars: 6
+    vars: 5
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 132
+  linear {
+    vars: 23
+    vars: 21
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 133
+  linear {
+    vars: 7
+    vars: 5
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -134
+  linear {
+    vars: 7
+    vars: 5
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 133
+  linear {
+    vars: 24
+    vars: 20
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 134
+  linear {
+    vars: 7
+    vars: 5
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -135
+  linear {
+    vars: 7
+    vars: 5
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 134
+  linear {
+    vars: 25
+    vars: 21
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 135
+  linear {
+    vars: 8
+    vars: 5
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -136
+  linear {
+    vars: 8
+    vars: 5
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 135
+  linear {
+    vars: 26
+    vars: 20
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 136
+  linear {
+    vars: 8
+    vars: 5
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -137
+  linear {
+    vars: 8
+    vars: 5
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 136
+  linear {
+    vars: 27
+    vars: 21
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 137
+  linear {
+    vars: 9
+    vars: 5
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -138
+  linear {
+    vars: 9
+    vars: 5
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 137
+  linear {
+    vars: 28
+    vars: 20
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 138
+  linear {
+    vars: 9
+    vars: 5
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -139
+  linear {
+    vars: 9
+    vars: 5
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 138
+  linear {
+    vars: 29
+    vars: 21
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 139
+  linear {
+    vars: 0
+    vars: 6
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -140
+  linear {
+    vars: 0
+    vars: 6
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 139
+  linear {
+    vars: 10
+    vars: 22
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 140
+  linear {
+    vars: 0
+    vars: 6
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -141
+  linear {
+    vars: 0
+    vars: 6
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 140
+  linear {
+    vars: 11
+    vars: 23
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 141
+  linear {
+    vars: 1
+    vars: 6
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -142
+  linear {
+    vars: 1
+    vars: 6
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 141
+  linear {
+    vars: 12
+    vars: 22
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 142
+  linear {
+    vars: 1
+    vars: 6
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -143
+  linear {
+    vars: 1
+    vars: 6
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 142
+  linear {
+    vars: 13
+    vars: 23
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 143
+  linear {
+    vars: 2
+    vars: 6
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -144
+  linear {
+    vars: 2
+    vars: 6
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 143
+  linear {
+    vars: 14
+    vars: 22
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 144
+  linear {
+    vars: 2
+    vars: 6
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -145
+  linear {
+    vars: 2
+    vars: 6
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 144
+  linear {
+    vars: 15
+    vars: 23
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 145
+  linear {
+    vars: 3
+    vars: 6
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -146
+  linear {
+    vars: 3
+    vars: 6
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 145
+  linear {
+    vars: 16
+    vars: 22
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 146
+  linear {
+    vars: 3
+    vars: 6
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -147
+  linear {
+    vars: 3
+    vars: 6
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 146
+  linear {
+    vars: 17
+    vars: 23
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 147
+  linear {
+    vars: 4
+    vars: 6
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -148
+  linear {
+    vars: 4
+    vars: 6
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 147
+  linear {
+    vars: 18
+    vars: 22
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 148
+  linear {
+    vars: 4
+    vars: 6
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -149
+  linear {
+    vars: 4
+    vars: 6
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 148
+  linear {
+    vars: 19
+    vars: 23
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 149
+  linear {
+    vars: 5
+    vars: 6
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -150
+  linear {
+    vars: 5
+    vars: 6
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 149
+  linear {
+    vars: 20
+    vars: 22
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 150
+  linear {
+    vars: 5
+    vars: 6
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -151
+  linear {
+    vars: 5
+    vars: 6
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 150
+  linear {
+    vars: 21
+    vars: 23
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 151
+  linear {
+    vars: 7
+    vars: 6
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -152
+  linear {
+    vars: 7
+    vars: 6
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 151
+  linear {
+    vars: 24
+    vars: 22
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 152
+  linear {
+    vars: 7
+    vars: 6
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -153
+  linear {
+    vars: 7
+    vars: 6
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 152
+  linear {
+    vars: 25
+    vars: 23
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 153
+  linear {
+    vars: 8
+    vars: 6
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -154
+  linear {
+    vars: 8
+    vars: 6
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 153
+  linear {
+    vars: 26
+    vars: 22
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 154
+  linear {
+    vars: 8
+    vars: 6
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -155
+  linear {
+    vars: 8
+    vars: 6
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 154
+  linear {
+    vars: 27
+    vars: 23
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 155
+  linear {
+    vars: 9
+    vars: 6
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -156
+  linear {
+    vars: 9
+    vars: 6
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 155
+  linear {
+    vars: 28
+    vars: 22
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 156
+  linear {
+    vars: 9
+    vars: 6
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -157
+  linear {
+    vars: 9
+    vars: 6
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 156
+  linear {
+    vars: 29
+    vars: 23
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 157
+  linear {
+    vars: 0
+    vars: 7
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -158
+  linear {
+    vars: 0
+    vars: 7
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 157
+  linear {
+    vars: 10
+    vars: 24
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 158
+  linear {
+    vars: 0
+    vars: 7
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -159
+  linear {
+    vars: 0
+    vars: 7
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 158
+  linear {
+    vars: 11
+    vars: 25
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 159
+  linear {
+    vars: 1
+    vars: 7
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -160
+  linear {
+    vars: 1
+    vars: 7
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 159
+  linear {
+    vars: 12
+    vars: 24
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 160
+  linear {
+    vars: 1
+    vars: 7
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -161
+  linear {
+    vars: 1
+    vars: 7
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 160
+  linear {
+    vars: 13
+    vars: 25
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 161
+  linear {
+    vars: 2
+    vars: 7
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -162
+  linear {
+    vars: 2
+    vars: 7
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 161
+  linear {
+    vars: 14
+    vars: 24
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 162
+  linear {
+    vars: 2
+    vars: 7
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -163
+  linear {
+    vars: 2
+    vars: 7
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 162
+  linear {
+    vars: 15
+    vars: 25
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 163
+  linear {
+    vars: 3
+    vars: 7
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -164
+  linear {
+    vars: 3
+    vars: 7
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 163
+  linear {
+    vars: 16
+    vars: 24
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 164
+  linear {
+    vars: 3
+    vars: 7
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -165
+  linear {
+    vars: 3
+    vars: 7
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 164
+  linear {
+    vars: 17
+    vars: 25
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 165
+  linear {
+    vars: 4
+    vars: 7
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -166
+  linear {
+    vars: 4
+    vars: 7
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 165
+  linear {
+    vars: 18
+    vars: 24
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 166
+  linear {
+    vars: 4
+    vars: 7
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -167
+  linear {
+    vars: 4
+    vars: 7
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 166
+  linear {
+    vars: 19
+    vars: 25
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 167
+  linear {
+    vars: 5
+    vars: 7
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -168
+  linear {
+    vars: 5
+    vars: 7
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 167
+  linear {
+    vars: 20
+    vars: 24
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 168
+  linear {
+    vars: 5
+    vars: 7
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -169
+  linear {
+    vars: 5
+    vars: 7
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 168
+  linear {
+    vars: 21
+    vars: 25
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 169
+  linear {
+    vars: 6
+    vars: 7
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -170
+  linear {
+    vars: 6
+    vars: 7
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 169
+  linear {
+    vars: 22
+    vars: 24
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 170
+  linear {
+    vars: 6
+    vars: 7
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -171
+  linear {
+    vars: 6
+    vars: 7
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 170
+  linear {
+    vars: 23
+    vars: 25
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 171
+  linear {
+    vars: 8
+    vars: 7
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -172
+  linear {
+    vars: 8
+    vars: 7
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 171
+  linear {
+    vars: 26
+    vars: 24
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 172
+  linear {
+    vars: 8
+    vars: 7
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -173
+  linear {
+    vars: 8
+    vars: 7
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 172
+  linear {
+    vars: 27
+    vars: 25
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 173
+  linear {
+    vars: 9
+    vars: 7
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -174
+  linear {
+    vars: 9
+    vars: 7
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 173
+  linear {
+    vars: 28
+    vars: 24
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 174
+  linear {
+    vars: 9
+    vars: 7
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -175
+  linear {
+    vars: 9
+    vars: 7
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 174
+  linear {
+    vars: 29
+    vars: 25
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 175
+  linear {
+    vars: 0
+    vars: 8
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -176
+  linear {
+    vars: 0
+    vars: 8
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 175
+  linear {
+    vars: 10
+    vars: 26
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 176
+  linear {
+    vars: 0
+    vars: 8
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -177
+  linear {
+    vars: 0
+    vars: 8
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 176
+  linear {
+    vars: 11
+    vars: 27
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 177
+  linear {
+    vars: 1
+    vars: 8
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -178
+  linear {
+    vars: 1
+    vars: 8
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 177
+  linear {
+    vars: 12
+    vars: 26
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 178
+  linear {
+    vars: 1
+    vars: 8
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -179
+  linear {
+    vars: 1
+    vars: 8
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 178
+  linear {
+    vars: 13
+    vars: 27
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 179
+  linear {
+    vars: 2
+    vars: 8
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -180
+  linear {
+    vars: 2
+    vars: 8
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 179
+  linear {
+    vars: 14
+    vars: 26
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 180
+  linear {
+    vars: 2
+    vars: 8
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -181
+  linear {
+    vars: 2
+    vars: 8
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 180
+  linear {
+    vars: 15
+    vars: 27
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 181
+  linear {
+    vars: 3
+    vars: 8
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -182
+  linear {
+    vars: 3
+    vars: 8
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 181
+  linear {
+    vars: 16
+    vars: 26
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 182
+  linear {
+    vars: 3
+    vars: 8
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -183
+  linear {
+    vars: 3
+    vars: 8
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 182
+  linear {
+    vars: 17
+    vars: 27
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 183
+  linear {
+    vars: 4
+    vars: 8
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -184
+  linear {
+    vars: 4
+    vars: 8
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 183
+  linear {
+    vars: 18
+    vars: 26
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 184
+  linear {
+    vars: 4
+    vars: 8
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -185
+  linear {
+    vars: 4
+    vars: 8
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 184
+  linear {
+    vars: 19
+    vars: 27
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 185
+  linear {
+    vars: 5
+    vars: 8
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -186
+  linear {
+    vars: 5
+    vars: 8
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 185
+  linear {
+    vars: 20
+    vars: 26
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 186
+  linear {
+    vars: 5
+    vars: 8
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -187
+  linear {
+    vars: 5
+    vars: 8
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 186
+  linear {
+    vars: 21
+    vars: 27
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 187
+  linear {
+    vars: 6
+    vars: 8
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -188
+  linear {
+    vars: 6
+    vars: 8
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 187
+  linear {
+    vars: 22
+    vars: 26
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 188
+  linear {
+    vars: 6
+    vars: 8
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -189
+  linear {
+    vars: 6
+    vars: 8
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 188
+  linear {
+    vars: 23
+    vars: 27
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 189
+  linear {
+    vars: 7
+    vars: 8
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -190
+  linear {
+    vars: 7
+    vars: 8
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 189
+  linear {
+    vars: 24
+    vars: 26
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 190
+  linear {
+    vars: 7
+    vars: 8
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -191
+  linear {
+    vars: 7
+    vars: 8
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 190
+  linear {
+    vars: 25
+    vars: 27
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 191
+  linear {
+    vars: 9
+    vars: 8
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -192
+  linear {
+    vars: 9
+    vars: 8
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 191
+  linear {
+    vars: 28
+    vars: 26
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 192
+  linear {
+    vars: 9
+    vars: 8
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -193
+  linear {
+    vars: 9
+    vars: 8
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 192
+  linear {
+    vars: 29
+    vars: 27
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 193
+  linear {
+    vars: 0
+    vars: 9
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -194
+  linear {
+    vars: 0
+    vars: 9
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 193
+  linear {
+    vars: 10
+    vars: 28
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 194
+  linear {
+    vars: 0
+    vars: 9
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -195
+  linear {
+    vars: 0
+    vars: 9
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 194
+  linear {
+    vars: 11
+    vars: 29
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 195
+  linear {
+    vars: 1
+    vars: 9
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -196
+  linear {
+    vars: 1
+    vars: 9
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 195
+  linear {
+    vars: 12
+    vars: 28
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 196
+  linear {
+    vars: 1
+    vars: 9
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -197
+  linear {
+    vars: 1
+    vars: 9
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 196
+  linear {
+    vars: 13
+    vars: 29
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 197
+  linear {
+    vars: 2
+    vars: 9
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -198
+  linear {
+    vars: 2
+    vars: 9
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 197
+  linear {
+    vars: 14
+    vars: 28
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 198
+  linear {
+    vars: 2
+    vars: 9
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -199
+  linear {
+    vars: 2
+    vars: 9
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 198
+  linear {
+    vars: 15
+    vars: 29
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 199
+  linear {
+    vars: 3
+    vars: 9
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -200
+  linear {
+    vars: 3
+    vars: 9
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 199
+  linear {
+    vars: 16
+    vars: 28
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 200
+  linear {
+    vars: 3
+    vars: 9
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -201
+  linear {
+    vars: 3
+    vars: 9
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 200
+  linear {
+    vars: 17
+    vars: 29
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 201
+  linear {
+    vars: 4
+    vars: 9
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -202
+  linear {
+    vars: 4
+    vars: 9
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 201
+  linear {
+    vars: 18
+    vars: 28
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 202
+  linear {
+    vars: 4
+    vars: 9
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -203
+  linear {
+    vars: 4
+    vars: 9
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 202
+  linear {
+    vars: 19
+    vars: 29
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 203
+  linear {
+    vars: 5
+    vars: 9
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -204
+  linear {
+    vars: 5
+    vars: 9
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 203
+  linear {
+    vars: 20
+    vars: 28
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 204
+  linear {
+    vars: 5
+    vars: 9
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -205
+  linear {
+    vars: 5
+    vars: 9
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 204
+  linear {
+    vars: 21
+    vars: 29
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 205
+  linear {
+    vars: 6
+    vars: 9
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -206
+  linear {
+    vars: 6
+    vars: 9
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 205
+  linear {
+    vars: 22
+    vars: 28
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 206
+  linear {
+    vars: 6
+    vars: 9
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -207
+  linear {
+    vars: 6
+    vars: 9
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 206
+  linear {
+    vars: 23
+    vars: 29
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 207
+  linear {
+    vars: 7
+    vars: 9
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -208
+  linear {
+    vars: 7
+    vars: 9
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 207
+  linear {
+    vars: 24
+    vars: 28
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 208
+  linear {
+    vars: 7
+    vars: 9
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -209
+  linear {
+    vars: 7
+    vars: 9
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 208
+  linear {
+    vars: 25
+    vars: 29
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 209
+  linear {
+    vars: 8
+    vars: 9
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -210
+  linear {
+    vars: 8
+    vars: 9
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 209
+  linear {
+    vars: 26
+    vars: 28
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  enforcement_literal: 210
+  linear {
+    vars: 8
+    vars: 9
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 0
+  }
+}
+constraints {
+  enforcement_literal: -211
+  linear {
+    vars: 8
+    vars: 9
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  enforcement_literal: 210
+  linear {
+    vars: 27
+    vars: 29
+    coeffs: 1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: 1
+  }
+}
+constraints {
+  linear {
+    vars: 11
+    vars: 10
+    coeffs: 41
+    coeffs: 48
+    domain: 27
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  linear {
+    vars: 13
+    vars: 12
+    coeffs: 41
+    coeffs: 48
+    domain: 34
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  linear {
+    vars: 15
+    vars: 14
+    coeffs: 41
+    coeffs: 48
+    domain: 38
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  linear {
+    vars: 17
+    vars: 16
+    coeffs: 41
+    coeffs: 48
+    domain: 22
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  linear {
+    vars: 19
+    vars: 18
+    coeffs: 41
+    coeffs: 48
+    domain: 28
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  linear {
+    vars: 21
+    vars: 20
+    coeffs: 41
+    coeffs: 48
+    domain: 34
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  linear {
+    vars: 23
+    vars: 22
+    coeffs: 41
+    coeffs: 48
+    domain: 38
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  linear {
+    vars: 25
+    vars: 24
+    coeffs: 41
+    coeffs: 48
+    domain: 38
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  linear {
+    vars: 27
+    vars: 26
+    coeffs: 41
+    coeffs: 48
+    domain: 29
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  linear {
+    vars: 29
+    vars: 28
+    coeffs: 41
+    coeffs: 48
+    domain: 35
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  linear {
+    vars: 1
+    vars: 7
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  linear {
+    vars: 9
+    vars: 0
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  linear {
+    vars: 8
+    vars: 3
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  linear {
+    vars: 5
+    vars: 9
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  linear {
+    vars: 4
+    vars: 9
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  linear {
+    vars: 1
+    vars: 2
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  linear {
+    vars: 1
+    vars: 4
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  linear {
+    vars: 6
+    vars: 7
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  linear {
+    vars: 7
+    vars: 5
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  linear {
+    vars: 4
+    vars: 2
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  linear {
+    vars: 8
+    vars: 4
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  linear {
+    vars: 1
+    vars: 5
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  linear {
+    vars: 6
+    vars: 4
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  linear {
+    vars: 3
+    vars: 0
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  linear {
+    vars: 0
+    vars: 7
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  linear {
+    vars: 6
+    vars: 0
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  linear {
+    vars: 3
+    vars: 9
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  linear {
+    vars: 6
+    vars: 1
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  linear {
+    vars: 0
+    vars: 5
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  linear {
+    vars: 3
+    vars: 5
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  linear {
+    vars: 0
+    vars: 2
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  linear {
+    vars: 8
+    vars: 2
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  linear {
+    vars: 8
+    vars: 7
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  linear {
+    vars: 5
+    vars: 2
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  linear {
+    vars: 4
+    vars: 7
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  linear {
+    vars: 6
+    vars: 5
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  linear {
+    vars: 3
+    vars: 2
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  linear {
+    vars: 6
+    vars: 9
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  linear {
+    vars: 6
+    vars: 3
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  linear {
+    vars: 3
+    vars: 7
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  linear {
+    vars: 2
+    vars: 7
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  linear {
+    vars: 8
+    vars: 6
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  linear {
+    vars: 3
+    vars: 4
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  linear {
+    vars: 4
+    vars: 5
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  linear {
+    vars: 9
+    vars: 2
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  linear {
+    vars: 7
+    vars: 9
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  linear {
+    vars: 3
+    vars: 1
+    coeffs: -1
+    coeffs: 1
+    domain: -9223372036854775808
+    domain: -1
+    domain: 1
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  linear {
+    vars: 0
+    vars: 30
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  linear {
+    vars: 1
+    vars: 30
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  linear {
+    vars: 2
+    vars: 30
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  linear {
+    vars: 3
+    vars: 30
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  linear {
+    vars: 4
+    vars: 30
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  linear {
+    vars: 5
+    vars: 30
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  linear {
+    vars: 6
+    vars: 30
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  linear {
+    vars: 7
+    vars: 30
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  linear {
+    vars: 8
+    vars: 30
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 9223372036854775807
+  }
+}
+constraints {
+  linear {
+    vars: 9
+    vars: 30
+    coeffs: -1
+    coeffs: 1
+    domain: 0
+    domain: 9223372036854775807
+  }
+}
+objective {
+  vars: 30
+  scaling_factor: 1
+  coeffs: 1
+}

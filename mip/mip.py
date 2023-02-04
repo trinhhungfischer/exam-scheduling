@@ -183,9 +183,9 @@ def test_phase(num_run_per_data: int, config_index: int, time_limit: int = 600):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument('-n','--num_run_per_data', type=int, default=5)
-    parser.add_argument('-c','--config_index', type=int, default=0)
-    parser.add_argument('-t','--time_limit', type=int, default=600)
+    parser.add_argument('-n','--num_run_per_data', type=int, default=5, help="number of run per data")
+    parser.add_argument('-c','--config_index', type=int, default=0, help="index of config for data")
+    parser.add_argument('-t','--time_limit', type=int, default=600, help="time limit for each run")
     
     args = parser.parse_args()
     

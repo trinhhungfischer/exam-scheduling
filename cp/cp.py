@@ -3,6 +3,7 @@ import os
 from ortools.linear_solver import pywraplp
 import math
 import time
+import argparse
 
 utils_path = os.path.join(os.getcwd())
 sys.path.insert(1, utils_path)
@@ -12,6 +13,7 @@ from utils.read_data import read_data
 
 from ortools.sat.python import cp_model
 import math
+
 
 def cp(num_subjects: int, num_rooms: int, nums_student_per_subject: int, 
         num_seats_per_room: int, subject_pairs: int,
@@ -75,11 +77,12 @@ def cp(num_subjects: int, num_rooms: int, nums_student_per_subject: int,
     
 
     solver = cp_model.CpSolver()
+    
     solver.parameters.max_time_in_seconds = time_limit
     
     status = solver.Solve(model)
 
-    if status == cp_model.OPTIMAL:
+    if status == cp_model.OPTIMAL or status == cp_model.FEASIBLE:
         solution = []
         
         print("Optimal solution found")
@@ -109,9 +112,80 @@ def cp(num_subjects: int, num_rooms: int, nums_student_per_subject: int,
             solution_str += str(subjects) + "," + str(nums_student_per_subject[subjects]) + "," + str(room) + "," + \
                 str(num_seats_per_room[room]) + "," + str(day) + "," + str(section) + "\n"
 
-        return solution_str
+        return (solution_str, status)
 
     else:
         print('The problem does not have an optimal solution.')          
+        return (None, status)        
+
+
+def test_phase(num_run_per_data: int, config_index: int, time_limit: int = 600):
+    configs = [(10, 2, 4), (10, 2, 12), (10, 2, 24), (10, 2, 40),
+            (16, 3, 12), (16, 3, 24), (16, 3, 40), (16, 3, 60),
+            (20, 4, 24), (20, 4, 40), (20, 4, 60), (20, 4, 80),
+            (30, 6, 40), (30, 6, 60), (30, 6, 80), 
+            (40, 8, 60), (40, 8, 80), (40, 8, 120),
+            (50, 10, 80), (50, 10, 120),
+            (60, 12, 80),(60, 12, 120), 
+            (70, 16, 80), (70, 16, 120), 
+            (80, 20, 80), (80, 20, 120),
+            (200, 20, 80), (200, 20, 120)]
+    
+    
+    for i in range (0, 5):
+        for run in range(1, num_run_per_data + 1):
+            start_time = time.time()
+
+            path_to_data = './data/set_conflicts/'
+            
+            num_subjects, num_rooms, num_conflict = configs[config_index]
+
+            file_name = 'data_{}_{}_{}_({}).txt'.format(num_subjects, num_rooms, num_conflict, i)
+
+            data = read_data(path_to_data + file_name)
+
+            solution_str, status = cp(num_subjects=data["num_subjects"], num_rooms=data["num_rooms"], 
+                                    nums_student_per_subject=data["num_students_per_subject"],
+                                    num_seats_per_room=data["num_seats_per_room"], subject_pairs=data["conflicts"],
+                                    time_limit=time_limit)
+
+            if solution_str is not None: 
+                output_path = "solution/cp/set_conflict/" + file_name[:-4] + "_solution.csv"
+
+                with open(output_path, 'w') as f:
+                    f.write(solution_str)
         
-        
+                end_time = time.time()
+                
+            elif solution_str == 'Time Limit':
+                end_time = start_time + time_limit + 120
+            else:
+                end_time = None
+            
+            aggregate_path = "solution/aggregate.csv"
+            
+            with open(aggregate_path, 'a') as f:
+                if end_time is None:
+                    f.write("cp," + file_name + "," + str(num_subjects) + "," + 
+                            str(num_rooms) + "," + str(num_conflict) + "," + 
+                            str(run) + "," + str(start_time) + "," + 
+                            "," + str(time_limit) + ',' + str(status) + "\n")
+                else:
+                    f.write("cp," + file_name + "," + str(num_subjects) + "," + 
+                            str(num_rooms) + "," + str(num_conflict) + "," + 
+                            str(run) + "," + str(start_time) + "," + str(end_time) + 
+                            "," + str(end_time - start_time) + ',' + str(status) + "\n")
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument('-n','--num_run_per_data', type=int, default=5, help="number of run per data")
+    parser.add_argument('-c','--config_index', type=int, default=0, help="index of config for data")
+    parser.add_argument('-t','--time_limit', type=int, default=600, help="time limit for each run")
+    
+    args = parser.parse_args()
+    
+    test_phase(num_run_per_data=args.num_run_per_data, 
+               config_index=args.config_index,
+               time_limit=args.time_limit)    
+       
+            

@@ -137,7 +137,7 @@ def test_phase(num_run_per_data: int, config_index: int, time_limit: int = 600):
             (200, 20, 80), (200, 20, 120)]
     
     
-    for i in range (0, 5):
+    for i in range (4, 5):
         for run in range(1, num_run_per_data + 1):
             start_time = time.time()
 

@@ -11,7 +11,7 @@ Mục tiêu của bài toán là minimize $max(x) \rightarrow min$.
 Chúng ta có các rằng buộc gốc cho bài toán như sau
 
 1. Hai môn cùng kíp thi không được xếp cùng phòng
-$$ x[i1]=x[i2] \Rightarrow y[i1][j] + y[i2][j] \le 1; \forall i1,i2 \in \{1,...,N\}, j \in \{1,...,M\}$$
+$$ \forall i1,i2 \in {1,...,N}, j \in {1,...,M}, x[i1]=x[i2] \Rightarrow y[i1][j] + y[i2][j] \le 1 $$
 2. Mỗi phòng chỉ có thể được xếp tối đa 1 môn trong 1 kíp
 $$\sum_{j=0}^{M-1} y[i][j]=1; \forall i \in \{1,...,N\}$$
 1. Xếp các môn thi $i$ vào phòng thi $j$ có sức chưa $c[j]$ phù hợp:
